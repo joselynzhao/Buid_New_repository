@@ -1,5 +1,6 @@
 # Buid_New_repository
 
+$ git clone http:             #克隆远程仓库
 $ git init                    #把当前目录变成git可以管理的仓库
 $ git add readme.txt          #添加一个文件，也可以添加文件夹
 $ git add -A                  #添加全部文件
