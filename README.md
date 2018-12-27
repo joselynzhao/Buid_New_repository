@@ -12,3 +12,13 @@ $ git reset --hard HEAD~100   #版本回退多个版本
 $ git remote add origin +地址 #远程仓库的提交（第一次链接）
 $ git push -u origin master   #仓库关联
 $ git push                    #远程仓库的提交（第二次及之后）
+
+
+write by myself
+#terminal operate
+$ git add filename
+$ git commit -m "log information"
+$ git push
+
+#view windows
+VCS - update project - commit - git_push
